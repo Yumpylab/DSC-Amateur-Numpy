@@ -1,1 +1,1 @@
-# Numpy-practice
+# DSC-Numpy-Assignment
